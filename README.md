@@ -22,7 +22,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+![image](https://github.com/Prasanth9025/InformationGathering/assets/118343686/b96ec879-9345-4643-ae62-c9684dc2bfe0)
 
-
+## Finding IP Address:
+ping command is available on Windows as well as on Linux OS. Following is the example to find out the IP address of saveetha.ac.in.
+```
+ping saveetha.ac.in
+```
+##
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
